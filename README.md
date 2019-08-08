@@ -3,4 +3,4 @@
 
 flame motion detection with deepgaze
 ------
-![ggplot2](FireDetection.gif)
+![ggplot2](FlameDeepgaze.gif)
